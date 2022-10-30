@@ -1,0 +1,266 @@
+[
+    {
+        "term": "reward_time_used_up_message",
+        "definition": "You have used up all of your offline time",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": "Offline Reward"
+    },
+    {
+        "term": "reward_time_used_up_refill_button",
+        "definition": "Get More",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "reward_time_log_out_message",
+        "definition": "Are you sure you wish to log out? All remaining offline time will be lost.",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "reward_time_log_out_button",
+        "definition": "Logout",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "reward_time_breached_message",
+        "definition": "The time on your phone has changed and this will remove any offline time remaining.",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "reward_time_remaining_message",
+        "definition": "%d minutes of offline time remaining",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "unlock_offline_notification_title",
+        "definition": "Unlock Offline Mode",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "unlock_offline_notification_description",
+        "definition": "Access all your facvourite music in offline mode.",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "unlock_offline_notification_button",
+        "definition": "Unlock Offline",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_title",
+        "definition": "Unlock Offline",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_description",
+        "definition": "Access all you favourite music in offline mode",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_ad_description",
+        "definition": "Offline time will be earned after watching all ads",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_ad_count_label",
+        "definition": "Ad %d of %d",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_2_hours_title",
+        "definition": "2 hours",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_2_hours_description",
+        "definition": "Watch 6 ads",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_2_hours_button",
+        "definition": "Earn 2 hours*",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_2_hours_complete_footer",
+        "definition": "*Your offline time will commence immediately and end in 2 hours",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_4_hours_title",
+        "definition": "4 hours",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_4_hours_description",
+        "definition": "Watch 12 ads",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_4_hours_button",
+        "definition": "Earn 4 hours*",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_4_hours_complete_footer",
+        "definition": "*Your offline time will commence immediately and end in 4 hours",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_8_hours_title",
+        "definition": "8 hours",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_8_hours_description",
+        "definition": "Watch 24 ads",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_8_hours_button",
+        "definition": "Earn 8 hours*",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_8_hours_complete_footer",
+        "definition": "*Your offline time will commence immediately and end in 8 hours",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "go_premium_button_description",
+        "definition": "Unlimited Offline Time",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_footer",
+        "definition": "*Ads must be watched in their entirety to be rewarded offline time",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_complete_title",
+        "definition": "Congratulations!",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_complete_description_start",
+        "definition": "You've just earned",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_complete_description_end",
+        "definition": "of offline time!",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_complete_button",
+        "definition": "Start offline time*",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_tour_button",
+        "definition": "Get started",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "earn_offline_back_alert_message",
+        "definition": "You won't qualify for offline time if you go back.\nAre you sure?",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    }
+]

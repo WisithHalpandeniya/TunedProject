@@ -1,0 +1,242 @@
+[
+    {
+        "term": "parental_control_title",
+        "definition": "Parental Control",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": "Parental Control"
+    },
+    {
+        "term": "enable_parental_control_title",
+        "definition": "Enable parental control",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "enable_parental_control_description",
+        "definition": "Set up a passcode and accounts to manage",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "change_passcode_title",
+        "definition": "Change passcode",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "family_profiles_title",
+        "definition": "Profiles",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "create_parental_control_profiles_title",
+        "definition": "Create Profile",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "delete_family_profile_message",
+        "definition": "Are you sure you want to delete this profile?",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "set_passcode_title",
+        "definition": "Set Passcode",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "set_passcode_description",
+        "definition": "This will be used to change settings and access your main profile",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "set_passcode_button",
+        "definition": "Set passcode",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "confirm_passcode_title",
+        "definition": "Confirm Passcode",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "confirm_passcode_description",
+        "definition": "Re-enter your passcode below",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "confirm_passcode_button",
+        "definition": "Confirm",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "passcode_created_message",
+        "definition": "Passcode Created",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "passcode_updated_message",
+        "definition": "Passcode Updated",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "enter_passcode_title",
+        "definition": "Enter Passcode",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "passcode_match_error",
+        "definition": "The passcode you entered does not match",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "passcode_incorrect_error",
+        "definition": "The passcode you entered is incorrect, please enter the correct passcode",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "set_passcode_back_error",
+        "definition": "Please set your passcode to continue",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "my_downloads_description",
+        "definition": "See all downloads and go offline",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "reading_now_title",
+        "definition": "Reading Now",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "reading_now_empty_description",
+        "definition": "Your are currently not reading any audiobooks",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "my_episodes_title",
+        "definition": "My Episodes",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "no_favourite_episodes_title",
+        "definition": "No Favourited Episodes",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "my_songs_empty_title",
+        "definition": "No Favourited Songs",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "finished_title",
+        "definition": "Finished",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "finished_empty_description",
+        "definition": "You have not finished reading any audiobooks",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "child_age_label",
+        "definition": "%d years",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "edit_profile_no_name_error",
+        "definition": "Please enter a name to continue",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "my_library_tab_title",
+        "definition": "%s's Library",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    }
+]

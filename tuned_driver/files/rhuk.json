@@ -1,0 +1,250 @@
+[
+    {
+        "term": "your_details_title",
+        "definition": "Your Details",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": "Rehegoo Onboarding"
+    },
+    {
+        "term": "rhg_onboarding_personal_details_title",
+        "definition": "Personal Details",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "your_details_description",
+        "definition": "Let us know a bit about you",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "company_name_title",
+        "definition": "Company name*",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "mandatory_first_name_title",
+        "definition": "First Name*",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "surname_title",
+        "definition": "Surname*",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "address_title",
+        "definition": "Address",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "phone_number_alt_title",
+        "definition": "Phone number*",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "address_line_1_title",
+        "definition": "Address line 1*",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "address_line_2_title",
+        "definition": "Address line 2",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "city_title",
+        "definition": "City*",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "state_title",
+        "definition": "State\/Province\/Region",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "country_or_region_title",
+        "definition": "Country or region*",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "country_unselected_hint",
+        "definition": "Select",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "post_code_title",
+        "definition": "Zip\/Postal code*",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "preferences_title",
+        "definition": "Preferences",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "preferences_description",
+        "definition": "Tell us about your music preferences so we can tailor your experience",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "favourite_genre_title",
+        "definition": "Choose two genres",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "ideal_atmosphere_title",
+        "definition": "Choose two moods",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "preferences_header_fineprint",
+        "definition": "(max %d)",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "business_title",
+        "definition": "Business",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "select_category_title",
+        "definition": "Select category",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "select_sub_category_title",
+        "definition": "Select sub-category",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "enter_sub_category_title",
+        "definition": "Sub-category",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "select_country_title",
+        "definition": "Select country",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "preferences_done_button",
+        "definition": "Let's go",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "category_not_selected_message",
+        "definition": "Please select a category before selecting a sub category.",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "preference_validation_error_message",
+        "definition": "Please select two moods and two genres before continuing.",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "preference_validation_category_error_message",
+        "definition": "Please select a category",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "preference_validation_sub_category_error_message",
+        "definition": "Please select a sub-category",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "preference_validation_sub_category_text_error_message",
+        "definition": "Please enter a sub-category",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    }
+]
